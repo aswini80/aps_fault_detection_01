@@ -14,3 +14,6 @@ pip install -r requirements.txt
 python main.py
 ```
 This file is changed by me in github
+
+
+This file is changed by me in vs code
